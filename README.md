@@ -1,4 +1,6 @@
-### Hi there 👋
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Blackbird0911&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackbird0911&langs_count=5&theme=tokyonight)]()
+
 
 <!--
 **Blackbird0911/Blackbird0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
